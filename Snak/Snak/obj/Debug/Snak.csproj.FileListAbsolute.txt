@@ -1,0 +1,5 @@
+C:\snak\Snak\Snak\bin\Debug\Snak.exe.config
+C:\snak\Snak\Snak\bin\Debug\Snak.exe
+C:\snak\Snak\Snak\bin\Debug\Snak.pdb
+C:\snak\Snak\Snak\obj\Debug\Snak.exe
+C:\snak\Snak\Snak\obj\Debug\Snak.pdb
